@@ -45,7 +45,7 @@
   	},
     {
 		"name": "Elpmet",
-		"replaces": "Temple",
+		"replaces": "Amphitheatre",
 		"uniqueTo": "Upside-Down",
 		"culture": 4,
 		"happiness": 2,
